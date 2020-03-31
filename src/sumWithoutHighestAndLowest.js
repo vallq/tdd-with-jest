@@ -6,6 +6,9 @@
 
 const sumWithoutHighestAndLowest = array => {
 	// your code here
+	//find min and max
+	//push other numbers to sum
+	
 };
 
 module.exports = sumWithoutHighestAndLowest;
